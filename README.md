@@ -22,7 +22,7 @@ const daniellamas23 = {
         BOOTCAMP_CODERHOUSE: ["HTML/CSS/SASS", "JavaScript", "ReactJS"]
     },
     onGoing: { UDEMY: "UDEMY / Node.js Bootcamp Web Design MVC REST API" },
-    mind: "Work smarter"
+    mind: "Work smart"
 }
 ```
 
