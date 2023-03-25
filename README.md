@@ -15,8 +15,8 @@ You can find me :
 ```javascript
 const daniellamas23 = {
     pronouns: "he" | "him",
-    code: [JS, HTML, CSS, ReactJS, NodeJS],
-    tools: [Express, Express - validator, Sequelize(MySQL), Pug, TailwindCSS, DotEnv, Bcrypt, NPM],
+    code: [JS, HTML, CSS, REACTJS, NODE],
+    tools: [Express, ExpressValidator, Sequelize, MySQL, Pug, TailwindCSS, DotEnv, Bcrypt, Npm],
     architecture: ["Model View Controller"],
     certificates: {
         BOOTCAMP_CODERHOUSE: ["HTML/CSS/SASS", "JavaScript", "ReactJS"]
