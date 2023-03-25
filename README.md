@@ -7,7 +7,7 @@
 
 You can find me :
 
-[![Linkedin: Daniel Lamas](https://img.shields.io/badge/-DanielLamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/daniel-lamas-656812242)](linkedin.com/in/daniel-lamas-656812242)
+[![Linkedin: Daniel Lamas](https://img.shields.io/badge/-DanielLamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lamas-656812242/)](https://www.linkedin.com/in/daniel-lamas-656812242/)
 
 
 ### A little more about me...  
