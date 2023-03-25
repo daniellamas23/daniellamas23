@@ -14,17 +14,15 @@ You can find me :
 
 ```javascript
 const daniellamas23 = {
-  pronouns: "he" | "him",
-  code: [JS, HTML, CSS, ReactJS, NodeJS],
-  tools: [ Express, Express-validator, Sequelize (MySQL), Pug, TailwindCSS, DotEnv, Bcrypt, NPM],
-  architecture: ["Model View Controller"],
-  certificates: {
-                        BOOTCAMP_CODERHOUSE: "WebDesign", 
-                            "JavaScript", 
-                            "ReactJS",
-                                         },
- onGoing: {UDEMY:"UDEMY / Node.js Bootcamp Web Design MVC REST API"},                                        
- mind: "Work smarter"
+    pronouns: "he" | "him",
+    code: [JS, HTML, CSS, ReactJS, NodeJS],
+    tools: [Express, Express - validator, Sequelize(MySQL), Pug, TailwindCSS, DotEnv, Bcrypt, NPM],
+    architecture: ["Model View Controller"],
+    certificates: {
+        BOOTCAMP_CODERHOUSE: ["HTML/CSS/SASS", "JavaScript", "ReactJS"]
+    },
+    onGoing: { UDEMY: "UDEMY / Node.js Bootcamp Web Design MVC REST API" },
+    mind: "Work smarter"
 }
 ```
 
