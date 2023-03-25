@@ -17,7 +17,7 @@ const daniellamas23 = {
   pronouns: "he" | "him",
   code: [JS, HTML, CSS, ReactJS, NodeJS],
   tools: [ Express, Express-validator, Sequelize (MySQL), Pug, TailwindCSS, DotEnv, Bcrypt, NPM],
-  architecture: ["object-oriented", "Model View Controller",],
+  architecture: ["Model View Controller"],
   certificates: {
                         BOOTCAMP_CODERHOUSE: "WebDesign", 
                             "JavaScript", 
