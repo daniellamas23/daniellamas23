@@ -13,8 +13,7 @@ You can find me :
 ### A little more about me...  
 
 ```javascript
-const daniellamas23 = {
-    pronouns: "he" | "him",
+const daniellamas23 = {    
     code: [JS, HTML, CSS, REACTJS, NODE],
     tools: [Express, ExpressValidator, Sequelize, MySQL, Pug, TailwindCSS, DotEnv, Bcrypt, Npm],
     architecture: ["Model View Controller"],
