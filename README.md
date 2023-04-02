@@ -1,5 +1,5 @@
 
-<h2> Hi 👋, I'm Daniel! <img src="https://media4.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="50"></h2>
+<h2> Hi <img src="https://media4.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="50">, I'm Daniel! </h2>
 
 <img align='right' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 </br>Junior Developer 🧑‍💻 
@@ -24,8 +24,6 @@ const daniellamas23 = {
     mind: "Work smart"
 }
 ```
-
-<img src="https://media3.giphy.com/media/gEP2k49ndOqJDBSPZl/giphy.gif" width="130">
 
 ---
 
