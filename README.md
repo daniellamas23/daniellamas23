@@ -15,8 +15,10 @@ You can find me :
 ```javascript
 const daniellamas23 = {    
     skills: {
-        backend: ["C#", ".NET Core", "LINQ", "Entity Framework", "API RESTful", "HTTP Client", "Clean Architecture", "MVC", "SQL"],
-        frontend: ["JavaScript", "CSS3", "HTML", "Bootstrap", "Ionic"],
+        backend: ["C#", ".NET Core", "LINQ", "Entity Framework", "API RESTful",
+                             "HTTP Client", "Clean Architecture", "MVC", "SQL"],
+
+        frontend: ["JavaScript", "CSS3", "HTML5", "Bootstrap", "Ionic"],
         tools_testing: ["Java - JUnit4", "JSON", "Postman", "Swagger"]
     },
     learning: ["ReactJS"],  
