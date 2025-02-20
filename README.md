@@ -1,8 +1,8 @@
-
-<h2><img src="https://media4.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="50" style='background-color:rgba(0,0,0,0.4);border-radius:30%'>, I'm Daniel </h2>
+ <h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ203cjR2bGZpbDBzMGFpaWZwa2pubDZrNGphbWRqZmJvdDg0dXdwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/tRn5tutqd8UxLbbZ6f/giphy.gif" width="85">
+ , I'm Daniel </h2>
 
 <img align='right' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-</br>Junior Developer 🧑‍💻 
+</br> 
 </em></p>
 
 You can find me :
@@ -10,7 +10,7 @@ You can find me :
 [![Linkedin: Daniel Lamas](https://img.shields.io/badge/-DanielLamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lamas-656812242/)](https://www.linkedin.com/in/daniel-lamas-656812242/)
 
 
-### A little more about me...  
+### About me...  
 
 ```javascript
 const daniellamas23 = {    
